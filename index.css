@@ -61,14 +61,3 @@ nav a:hover{
     color: #430606;
 }
 
-.projetos img
-{
-    width: 300px;
-    height: 60vh;
-    border: 5mm;
-    border-radius: 10%;
-}
-.projetos p{
-    padding-left: 400px;
-    padding-right: 30px;
-}
